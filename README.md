@@ -34,7 +34,7 @@ To leverage the insights gained from the analysis, the following opportunities f
 - Engaging customers through personalized communications.
 ##  Customer Behaviour
 
-![App Screenshot](https://drive.google.com/file/d/1LniTPx0ulZq8h4fYah7L-ikzxO-5Zx-B/view?usp=drive_link)
+![App Screenshot](https://github.com/Arsathkhan71/RFM-Analysis/blob/main/plots/newplot%20(1).png)
 
 ## Identification of High-value Customers
 
