@@ -33,47 +33,55 @@ To leverage the insights gained from the analysis, the following opportunities f
 - Providing personalized content.
 - Engaging customers through personalized communications.
 ##  Customer Behaviour
+![newplot](https://github.com/Arsathkhan71/RFM-Analysis/assets/118503532/05f5c96d-17df-4896-9264-e0f85fb301e0)
 
-![App Screenshot](plots/newplot (1).png)
 
 ## Identification of High-value Customers
 
-![App Screenshot](https://drive.google.com/file/d/1rG-IK1VnlwYJkzH299k1a3RaMJ2DZy0E/view?usp=drive_link)
+![newplot (1)](https://github.com/Arsathkhan71/RFM-Analysis/assets/118503532/d6f36996-396e-4120-9181-c5b9930d45b8)
+
 
 ## Most Sold Products From Overall Customers
 
-![App Screenshot](https://drive.google.com/file/d/1Ue2C1fAafum_7vs5taoZo-5oxwsDE0to/view?usp=drive_link)
+![newplot (2)](https://github.com/Arsathkhan71/RFM-Analysis/assets/118503532/821f5491-fc33-4b86-b65e-35e59d16d07e)
+
 
 ## Most Sold Products by High-value Customers
 
-![App Screenshot](https://drive.google.com/file/d/1OM73-DxwbFNEY1tHEsHEI2g2jph8dtm-/view?usp=drive_link)
+![newplot (3)](https://github.com/Arsathkhan71/RFM-Analysis/assets/118503532/2323e6ca-cabe-4325-ac79-1e1115aa9d6d)
+
 
 ## Products Sold in Each Country
 
-![App Screenshot](https://drive.google.com/file/d/1GE2sSO-t2QU6HcOOECLHoVNM37QEY_wY/view?usp=drive_link)
+![newplot (4)](https://github.com/Arsathkhan71/RFM-Analysis/assets/118503532/c20db11b-375c-4679-bbba-2bb4d6b6e0d9)
+
 
 ## Amount Generated From Overall Customers
 
-![App Screenshot](https://drive.google.com/file/d/1FMkqkLhyjhUjJHIyUCsim6s8EU_cLfyf/view?usp=drive_link)
+![newplot (5)](https://github.com/Arsathkhan71/RFM-Analysis/assets/118503532/1dcc01b3-7131-4c3c-869f-2a567950b027)
 
 ## Amount Generated with Respect to Customer Segments 
 
-![App Screenshot](https://drive.google.com/file/d/1dfYTkrzoSVe1TB9BumWBpqQPYJAGdiIj/view?usp=drive_link)
+![newplot (8)](https://github.com/Arsathkhan71/RFM-Analysis/assets/118503532/87276ab7-ce92-4ec0-b3b5-c8a35079eb4f)
+
 
 ## Amount Generated From Each Country
+![newplot (6)](https://github.com/Arsathkhan71/RFM-Analysis/assets/118503532/ce71b90d-c27e-4dfb-a864-add244870de6)
 
-![App Screenshot](https://drive.google.com/file/d/1qItGrRQ3k9Kmdx-lQmLPPWYAZsgC1TT6/view?usp=drive_link)
 
 ## Distribution of High-value Customers by Location
 
-![App Screenshot](https://drive.google.com/file/d/1LAe21GncNDNFPivkt14y236dJyGiy68B/view?usp=drive_link)
+
+![newplot (7)](https://github.com/Arsathkhan71/RFM-Analysis/assets/118503532/338a8a83-5310-4158-a528-92030d327ab2)
 
 ## Top 5 Customers
 
-![App Screenshot](https://drive.google.com/file/d/1Dv5wwVuyTVXGyGWXapeBUYPHRU1m4C7y/view?usp=drive_link)
+![image](https://github.com/Arsathkhan71/RFM-Analysis/assets/118503532/0f753158-6016-4920-bce5-ce5670311387)
+
+
 ## Usage/Examples
 
-1. Customer Behaviour seems to be most of them are VIPs or Engaged Customers:
+1. Customer Behaviour seems to be most of them are VIPs or Engaged Customers
 - Offer VIP membership programs with exclusive benefits such as free shipping, early access to sales, or personalized product recommendations.
 
 2. Identification of high-value customers: There are 17.3% of High-value Customers
